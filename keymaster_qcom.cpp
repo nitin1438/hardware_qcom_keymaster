@@ -28,7 +28,7 @@
 #include <openssl/x509.h>
 
 #include <linux/ioctl.h>
-#include <linux/msm_ion.h>
+#include "msm_ion.h"
 #include <sys/mman.h>
 
 #include <stdio.h>
